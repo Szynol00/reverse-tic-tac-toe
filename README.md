@@ -20,12 +20,10 @@ Projekt został zrealizowany przy użyciu HTML, CSS i JavaScript. Algorytm minim
 5. Graj, klikając w komórki na planszy, aby umieścić tam swój znak.
    ![image](https://github.com/Szynol00/reverse-tic-tac-toe/assets/104465225/ab90eb09-70cf-47b9-b890-4984b840ecea)
    ![image](https://github.com/Szynol00/reverse-tic-tac-toe/assets/104465225/333fa336-d7e8-4e5c-bb60-27de87aa68b9)
-
-## Rozwój projektu
-Gra została zaprojektowana jako prosty projekt, który można rozszerzyć o dodatkowe funkcje, takie jak wybór poziomu trudności czy różne warianty graficzne.
-
-## Autor
-Szymon Całka
+   ![image](https://github.com/Szynol00/reverse-tic-tac-toe/assets/104465225/600839bd-1c21-4f2a-bec7-7dec62419ae2)
 
 ## Licencja
 Projekt jest dostępny na licencji MIT.
+
+## Autor
+Szymon Całka
